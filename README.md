@@ -1,5 +1,5 @@
-### Space X
-Static mockup of Space X's running website.
+# Space X
+### Static mockup of Space X's running website.
 
 This is a practice project where I had the opportunity to recreate a finished website using static HTML, CSS, and JavaScript.
 
